@@ -1,1 +1,3 @@
 estoy trabajando en una rama branch y ahora lo quiero unir con la rama master con merge
+
+Ahora creo nuevas lineas de texto, para ver si hay cambiosn en el archivo  
